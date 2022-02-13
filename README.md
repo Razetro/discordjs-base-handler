@@ -44,7 +44,7 @@ module.exports = {
 
 # 📑 Features
 - [x] Modular system
-- [X] Database Support (MySQL & MongoDB)
+- [X] Database Support
 - [X] Slash Commands
 
 # 🙏 Thanks to:
