@@ -45,11 +45,6 @@ module.exports = {
 # 📑 Features
 - [x] Modular system
 - [X] Database Support (MySQL & MongoDB)
-- [ ] Web Rest API
-- [ ] Log System (paste upload)
-- [x] Colored Console
-- [ ] Moderation features (kick/ban, mod-log, filter, chat cleanup)
-- [ ] Music features (YouTube, SoundCloud, local files, playlists, queues)
 - [X] Slash Commands
 
 # 🙏 Thanks to:
