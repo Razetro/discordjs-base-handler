@@ -35,6 +35,9 @@ const { Message, Client } = require("discord.js");
 
 module.exports = {
     name: "Command name",
+    description: "Type your description here",
+    category: "Your category",
+    usage: "<message> <number>",
     aliases: ['your', 'aliases'],
 
     run: async (client, message, args) => {
